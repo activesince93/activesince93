@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan</h1>
+<h1 align="center">Hi, I'm Darshan</h1>
 <h3 align="center">Android Developer. Believer in the clean code, software architecture and design patterns.</h3>
 
 - 👨‍💻 All of my projects are available at [https://activesince93.github.io/](https://activesince93.github.io/)
