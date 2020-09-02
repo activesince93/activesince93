@@ -1,9 +1,9 @@
 
 
 
-<h1 align="center">Hi everyone,</h1>
+<h1 align="left">Hi everyone,</h1>
 
-<p align="center">I'm a <b>Software Developer</b>,
+<p align="left">I'm a <b>Software Developer</b>,
 	<ul>
 		<li>👨‍💻 All of my projects are available at <b><a href="https://activesince93.github.io/">https://activesince93.github.io/</a></b></li>
 		<li>💬 Ask me about <b>Java, Kotlin, Android, MySQL, Spring</b></li>
@@ -12,7 +12,7 @@
 	</ul>
 </p>
 
-<p align="center">
+<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 	<img src="https://www.iconspng.com/images/transparent-background-pattern/transparent-background-pattern.jpg" alt="" width="20" height="20"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -27,7 +27,7 @@
 	<img src="https://www.iconspng.com/images/transparent-background-pattern/transparent-background-pattern.jpg" alt="" width="20" height="20"/> 
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
-<p align="center">
+<p align="left">
 	<img src="https://www.iconspng.com/images/transparent-background-pattern/transparent-background-pattern.jpg" alt="" width="20" height="20"/> 
 	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
 	<img src="https://www.iconspng.com/images/transparent-background-pattern/transparent-background-pattern.jpg" alt="" width="20" height="20"/> 
@@ -42,11 +42,11 @@
 	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
 	<img align="center" src=https://github-readme-stats.vercel.app/api?username=activesince93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&icon_color=fff" alt="activesince93"/>
 </p>
 
-<p align="center">
+<p align="left">
 	<a href="https://twitter.com/activesince93" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="activesince93" height="30" width="30" style="padding: 20px"/>
 	</a>
