@@ -1,12 +1,16 @@
 
 
+
 <h1 align="center">Hi everyone,</h1>
 
-I'm a **Software Developer**,
-- 👨‍💻 All of my projects are available at [https://activesince93.github.io/](https://activesince93.github.io/)
-- 💬 Ask me about **Java, Kotlin, Android, MySQL, Spring**
-- 📜 Believer in the **clean code, software architecture** and **design patterns**
-- 📫 Reach out to me at **parikhdarshan36@gmail.com**
+<p align="center">I'm a <b>Software Developer</b>,
+	<ul>
+		<li>👨‍💻 All of my projects are available at <b><a href="https://activesince93.github.io/">https://activesince93.github.io/</a></b></li>
+		<li>💬 Ask me about <b>Java, Kotlin, Android, MySQL, Spring</b></li>
+		<li>📜 Believer in the <b>clean code, software architecture</b> and <b>design patterns</b></li>
+		<li>📫 Reach out to me at <b><a href="mailto:parikhdarshan36@gmail.com">parikhdarshan36@gmail.com</a></b></li>
+	</ul>
+</p>
 
 <p align="center">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
