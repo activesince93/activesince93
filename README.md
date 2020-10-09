@@ -20,7 +20,7 @@
 	</a>
 </p>
 
-<h3 align="center">I make apps, android apps. 🔫</h3>
+<h3 align="center">I make apps, android apps.</h3>
 <p align="center">
 	<ul>
 		<li>👨‍💻 All of my projects are available at <b><a href="https://activesince93.github.io/">https://activesince93.github.io/</a></b></li>
