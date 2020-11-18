@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi  👋, I'm Darshan</h1>
+<h1 align="left">Hi 👋, I'm Darshan</h1>
 
 <h3 align="left">I make apps, android apps.</h3>
 
