@@ -13,8 +13,8 @@
 </p>
 <br>
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="32"/>
+	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-icon.svg" alt="android" width="40" height="32"/>
+	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="java" width="40" height="32"/>
 	<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="32"/>
 	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="32"/>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="32"/>
