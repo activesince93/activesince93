@@ -19,7 +19,7 @@
 	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="32"/>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="32"/>
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="32"/>
-	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="32"/>
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="32"/>
 </p>
 
 <p align="left">
