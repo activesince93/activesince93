@@ -23,10 +23,6 @@
 </p>
 
 <p align="left">
-	<img align="center" src=https://github-readme-stats.vercel.app/api?username=activesince93&title_color=808080&text_color=000&show_icons=true&icon_color=000" alt="activesince93"/>
-</p>
-
-<p align="left">
 	<a href="https://linkedin.com/in/activesince93" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="activesince93" height="24" width="36" />
 	</a>
